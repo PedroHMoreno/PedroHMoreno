@@ -1,8 +1,5 @@
 ## Olá! Eu sou o Pedro Moreno
 
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Javascript
-
 <div align="center">
   <a href="https://github.com/PedroHMoreno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHMoreno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
