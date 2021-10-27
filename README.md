@@ -1,4 +1,4 @@
-## Olá bem vindo! Eu me chamo Pedro Henrique Moreno! :)
+## Opaa, seja bem vindo ao meu GitHub! Eu sou Pedro :)
 
 - 🐱‍👤 Estudante de Análise e Desenvolvimento de Sistemas
 
