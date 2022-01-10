@@ -1,7 +1,5 @@
 ## Opaa, seja bem vindo ao meu GitHub! Eu sou Pedro :)
 
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
-
 - 🐱‍👤 Estudante de Análise e Desenvolvimento de Sistemas
 
 <div align="center">
@@ -24,4 +22,6 @@
   <a href="https://www.linkedin.com/in/pedrohmoreno/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/PedroHMoreno/PedroHMoreno/blob/output/github-contribution-grid-snake.svg)
+    
+    <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
  
