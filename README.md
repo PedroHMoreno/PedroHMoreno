@@ -1,6 +1,10 @@
 ## Opaa, seja bem vindo ao meu GitHub! Eu sou Pedro :)
 
+- 🌊 16y
+- 🌇 Conchal - São Paulo
 - 🐱‍👤 Estudante de Análise e Desenvolvimento de Sistemas
+- 🎓 Faculdade Tecnológica de Mogi Mirim
+- 📘 Estudando o Front-End.
 
 <div align="center">
   <a href="https://github.com/PedroHMoreno">
