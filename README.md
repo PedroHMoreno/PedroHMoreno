@@ -1,6 +1,6 @@
 ## Opaa, seja bem vindo ao meu GitHub! Eu sou Pedro :)
-- 🐱‍👤 Estudante de Análise e Desenvolvimento de Sistemas
-- 🎓 Faculdade Tecnológica de Mogi Mirim
+- 🐱‍👤 Estudante de Análise e Desenvolvimento de Sistemas.
+- 🎓 Faculdade Tecnológica de Mogi Mirim.
 - 📘 Estudando o Front-End.
 
 <div align="center">
