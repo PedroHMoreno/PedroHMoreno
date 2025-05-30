@@ -1,6 +1,5 @@
 ## Opaa, seja bem vindo ao meu GitHub! Eu sou Pedro :)
 - 🐱‍👤 Análise e Desenvolvimento de Sistemas.
-- 🎓 Faculdade Tecnológica de Mogi Mirim.
 
 <div align="center">
   <a href="https://github.com/PedroHMoreno">
